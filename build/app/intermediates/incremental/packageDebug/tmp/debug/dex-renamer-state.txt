@@ -1,0 +1,4 @@
+#Mon Jan 08 08:11:29 ICT 2024
+base.0=/Users/phong/Documents/flutter_ui_design/Flutter-UI-Template/task_management/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
